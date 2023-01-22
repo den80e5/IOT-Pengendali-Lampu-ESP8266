@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "982424847237",
+    "firebase_url": "https://papk-dee84-default-rtdb.firebaseio.com",
+    "project_id": "papk-dee84",
+    "storage_bucket": "papk-dee84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982424847237:android:b716bcc3ea6e3d1b7ffaec",
+        "android_client_info": {
+          "package_name": "com.kenden.qw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982424847237-0qsdj9trkmdfrufe79r99onq7h9vr9pp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwzNu6DO6Q0PEDbuRs4wCxHOTlWXg4aPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982424847237-0qsdj9trkmdfrufe79r99onq7h9vr9pp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
